@@ -12,7 +12,7 @@ As part of solution, I have created a controller which accepts list of participa
 
 Development Environment:
 
-IDE Used - Spring Tool Suite 4
-Java version - 11
-Framework - Springboot
+IDE Used - Spring Tool Suite 4,
+Java version - 11,
+Framework - Springboot,
 Project Build Tool - Maven
