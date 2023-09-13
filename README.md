@@ -1,7 +1,9 @@
 # participantDetails
 Solution for precheck Assignment
 
+Name - Bhanu Pratap Das
 Registration Number - 7218984
+Email - bhanu.das001@stud.fh-dortmund.de
 
 
 
